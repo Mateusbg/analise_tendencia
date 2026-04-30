@@ -1,0 +1,11 @@
+{
+  "encoding": "utf-8",
+  "separator": ",",
+  "auto_detect_separator": true,
+  "display": {
+    "max_rows": null,
+    "max_columns": null,
+    "max_colwidth": null
+  },
+  "filtro_ativo": true
+}
